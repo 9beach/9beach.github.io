@@ -2,7 +2,7 @@
 
 https://9beach.github.io
 
-예술가의 인터뷰와 수학 이야기를 올릴 생각입니다. 그다지 특별한 것은 없을 것 같습니다.
+예술가의 인터뷰와 수학 이야기를 올릴 생각입니다.
 
 # TODO
 - [ ] [A Conversation with Ágota Kristóf — Music & Literature](http://www.musicandliterature.org/features/2016/6/8/a-conversation-with-agota-kristof)
