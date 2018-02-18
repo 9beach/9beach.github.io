@@ -1,4 +1,4 @@
-#remote_theme: mmistakes/so-simple-theme
+remote_theme: mmistakes/so-simple-theme
 locale: ko-KR
 title: "9beach"
 description: "For no special reason."
@@ -93,5 +93,3 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
-
-theme: jekyll-theme-cayman
