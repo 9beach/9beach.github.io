@@ -1,7 +1,7 @@
 remote_theme: mmistakes/so-simple-theme
 locale: ko-KR
 title: "9beach"
-description: "Nothing special."
+description: "For no special reason."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://9beach.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -88,7 +88,7 @@ footer_links:
     url: https://twitter.com/9beach
     icon: fab fa-twitter-square
   - title: GitHub
-    url: https://github.com/9beach
+    url: https://github.com/9beach/9beach.github.io
     icon: fab fa-github-square
   - title: Feed
     url: atom.xml
