@@ -1,0 +1,10 @@
+# Sample site navigation links
+
+- title: Categories
+  url: /categories/
+- title: Posts
+  url: /posts/
+- title: Manuals
+  url: /manuals/
+- title: Search
+  url: /search/

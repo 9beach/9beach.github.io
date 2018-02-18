@@ -1,0 +1,95 @@
+remote_theme: mmistakes/so-simple-theme
+locale: ko-KR
+title: "9beach"
+description: "Nothing special."
+baseurl: # the subpath of your site, e.g. "/blog"
+url: "https://9beach.github.io"
+logo: # path of site logo, e.g. "/images/logo.png"
+date_format: "%B %-d, %Y"
+read_time: # reading time estimates, e.g. true
+words_per_minute: # 200
+mathjax: true
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+disqus:
+  shortname: 9beach
+twitter:
+  username: 9beach
+
+# Liquid
+liquid:
+  error_mode: warn
+
+# Build settings
+permalink: /:categories/:title/
+markdown: kramdown
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
+
+# Search
+search_full_content: false # can have performance implications for large sites
+
+# Taxonomoy pages
+category_archive_path: "/categories/#"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+
+# Front Matter Defaults
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+
+# Site Author
+author:
+  name: 9beach
+  picture:
+  email:
+  twitter: 9beach
+  links:
+    - title: Twitter
+      url: https://twitter.com/9beach
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/9beach
+      icon: fab fa-github-square
+
+# Footer Links
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/9beach
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/9beach
+    icon: fab fa-github-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
