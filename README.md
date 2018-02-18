@@ -10,3 +10,5 @@ https://9beach.github.io
 - [ ] [Annie Proulx: ‘I’ve had a life. I see how slippery things can be’](https://www.theguardian.com/books/2016/jun/05/annie-proulx-ive-had-a-life-i-see-how-slippery-things-can-be)
 - [ ] [The Rumpus Interview With Stuart Dybek](http://therumpus.net/2016/08/the-rumpus-interview-with-stuart-dybek/)
 - [ ] [Jon McGregor: ‘I’m allergic to trying to make points in fiction’](https://www.theguardian.com/books/2017/apr/07/jon-mcgregor-reservoir-13-novel-interview)
+- [ ] 카렌 블릭센
+- [ ] 톨스토이
