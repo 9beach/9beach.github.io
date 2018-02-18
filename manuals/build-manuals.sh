@@ -1,15 +1,15 @@
 # FIXME: Use git module
 # Bad practice. But before using this script, git clone each repo.
 
-cd ../jech-set-theory-solutions; make; cd -
-cd ../hungerford-algebra-solutions; make; cd -
-cd ../munkres-topology-solutions; make; cd -
+cd ../../jech-set-theory-solutions; make; cd -
+cd ../../hungerford-algebra-solutions; make; cd -
+cd ../../munkres-topology-solutions; make; cd -
 
 mkdir -p jech-set-theory-solutions hungerford-algebra-solutions munkres-topology-solutions
 
-cp -f ../jech-set-theory-solutions/*html jech-set-theory-solutions/
-cp -f ../hungerford-algebra-solutions/*html hungerford-algebra-solutions/
-cp -f ../munkres-topology-solutions/*html munkres-topology-solutions/
+cp -f ../../jech-set-theory-solutions/*html jech-set-theory-solutions/
+cp -f ../../hungerford-algebra-solutions/*html hungerford-algebra-solutions/
+cp -f ../../munkres-topology-solutions/*html munkres-topology-solutions/
 
 mv -f jech-set-theory-solutions/README.html jech-set-theory-solutions/index.html
 mv -f hungerford-algebra-solutions/README.html hungerford-algebra-solutions/index.html
