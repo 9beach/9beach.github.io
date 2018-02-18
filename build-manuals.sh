@@ -16,4 +16,5 @@ mv -f hungerford-algebra-solutions/README.html hungerford-algebra-solutions/inde
 mv -f munkres-topology-solutions/README.html munkres-topology-solutions/index.html
 
 # Poor dirty logic
-for i in jech-set-theory-solutions/*html munkres-topology-solutions/*html hungerford-algebra-solutions/*html; do echo '---' > .math.tmp; echo 'title: ' `grep '<title>' $i | sed -e 's:.*<title>:":' -e 's:</title>:":'` >> .math.tmp; echo 'layout: post\ncomments: true\n---\n' >> .math.tmp; echo '' >> .math.tmp; echo '{% raw %}' >> .math.tmp; cat $i | sed -e 's:README.html:..:' -e 's:<style type="text/css">:&p{font-family\: Georgia}:' -e 's:\.html::' >> .math.tmp; echo '{% endraw %}' >> .math.tmp; mv .math.tmp $i; done
+for i in jech-set-theory-solutions/*html munkres-topology-solutions/*html hungerford-algebra-solutions/*html; do echo '---' > .math.tmp; echo 'title: ' `grep '<title>' $i | sed -e 's:.*<title>:":' -e 's:</title>:":'` >> .math.tmp; echo 'layout: post\ncomments: true\n---\n' >> .math.tmp; echo '{% raw %}' >> .math.tmp; cat $i | sed -e 's:README.html:..:' -e 's:<style type="text/css">:&\
+      p{font-family\: Georgia;}:' -e 's:\.html::' >> .math.tmp; echo '{% endraw %}' >> .math.tmp; mv .math.tmp $i; done
