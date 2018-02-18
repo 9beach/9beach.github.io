@@ -1,5 +1,5 @@
-# FIXME: Use git module
-# Bad practice. But before using this script, git clone each repo.
+# FIXME: Need to change this into git submodules. The code below is very bad.
+#        As for now, you need to git clone each repo before using this.
 
 cd ../../jech-set-theory-solutions; make; cd -
 cd ../../hungerford-algebra-solutions; make; cd -
