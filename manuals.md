@@ -22,6 +22,6 @@ and PDF version [here](https://github.com/9beach/hungerford-algebra-solutions/re
 
 ### [A solutions manual for Topology by James Munkres](/manuals/munkres-topology-solutions/)
 
-_GitHub repository [here](https://github.com/9beach/manuals/munkres-topology-solutions),
-HTML versions [here](https://9beach.github.io/munkres-topology-solutions/),
+_GitHub repository [here](https://github.com/9beach/munkres-topology-solutions),
+HTML versions [here](https://9beach.github.io/manuals/munkres-topology-solutions/),
 and PDF version [here](https://github.com/9beach/munkres-topology-solutions/releases)._
