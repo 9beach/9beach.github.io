@@ -1,5 +1,7 @@
 # Sample site navigation links
 
+- title: Home
+  url: /
 - title: Categories
   url: /categories/
 - title: Posts
