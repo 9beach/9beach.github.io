@@ -82,7 +82,7 @@ in the woods near her home. Photograph: David Sillitoe for the Guardian</figcapt
  <figcaption>Winds of change: at home in Vershire, Vermont, back in 1994. Photograph: Toby Talbot/Associated Press </figcaption>
 </figure>
 
-프루는 자신이 잘못보다 강점을 찾기가 더 어렵다고 생각하지만, 자신이 훌륭한 관찰자라고 생각한다. "파티에서 당신은 언제나 저에게 말할 수 있어요. 왜냐하면, 저는 벽에 기대서 다른 사람들이 재미있게 노는 것을 보고 있거든요."
+프루는 자신이 단점보다 장점을 찾기가 더 어렵지만, 관찰자로서는 꽤 훌륭하다고 생각한다. "파티에서 당신은 언제나 저에게 말할 수 있어요. 왜냐하면, 저는 벽에 기대서 다른 사람들이 재미있게 노는 것을 보고 있거든요."
 
 그녀가 스스로 인정한 수줍음은 짜증으로 오해받기 쉽다. 문학상에 대한 그녀의 반응을 보자. "감사하고 기쁘고 즐거워서 날뛰며 소리 지르는 사람이 있다는 것도 알지만, 저는 그러지 못해요." 여성 전용 상에 관해서 말하자 헛기침을 한다. "이것은 항상 저를 괴롭혔어요. 글을 쓰는 여성에게 뭔가 다른 점이 있기는 하지만, 분명히 분열이에요."
 
