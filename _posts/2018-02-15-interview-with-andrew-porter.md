@@ -133,7 +133,7 @@ Epoch, The Pushcart Prith Anthology_ 및 NPR의 "Selected Shorts"에 단편을
 다이벡의 <i>[The Coast of Chicago](http://us.macmillan.com/thecoastofchicago)</i>처럼
 일주일에 한 번은 책장에서 꺼내는 그런 책도 있습니다.
 
-**제일 좋아하는 다이벡의 단편은?**
+**제일 좋아하는 다이벡의 단편은 무엇입니까?**
 
 ["Pet Milk."](http://www.newyorker.com/archive/1984/08/13/1984_08_13_026_TNY_CARDS_000339829)
 
