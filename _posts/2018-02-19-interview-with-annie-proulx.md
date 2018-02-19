@@ -7,7 +7,7 @@ categories:
  - interview
 ---
 
-_2016년 6월 50일 [The Guardian](https://www.theguardian.com/books/2016/jun/05/annie-proulx-ive-had-a-life-i-see-how-slippery-things-can-be)에 실린 작가 애니 프루<sup>Annie Proulx</sup>의 인터뷰를 번역한 글입니다. - 역자_
+_2016년 6월 50일 [The Guardian](https://www.theguardian.com/books/2016/jun/05/annie-proulx-ive-had-a-life-i-see-how-slippery-things-can-be)에 실린, 작가 애니 프루<sup>Annie Proulx</sup>의 인터뷰를 번역한 글입니다. - 역자_
 
 <figure class="align-center">
  <img  style="width: 100%;" src="https://i.guim.co.uk/img/media/72f24a8e8db82f36f3362c7391760f7861a21eb8/813_563_4879_2927/master/4879.jpg?w=1920&q=55&auto=format&usm=12&fit=max&s=f316b8897ba2fe914aa018d19f8ab0ce" alt="">

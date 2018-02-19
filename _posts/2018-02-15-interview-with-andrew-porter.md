@@ -8,7 +8,7 @@ categories:
 ---
 
 _2010년 7월 20일 [fictionwritersreview.com](http://fictionwritersreview.com/interview/starting-with-small-moments-an-interview-with-andrew-porter/)에
-실린 작가 앤드루 포터<sup>Andrew Porter</sup>의 인터뷰를 번역한 글입니다. 원문을 최대한 존중했으나, 
+실린, 작가 앤드루 포터<sup>Andrew Porter</sup>의 인터뷰를 번역한 글입니다. 원문을 최대한 존중했으나, 
 일부 잘못된 링크를 고치고 스테파니 본과 로리 오스트런드의 책 사진 두 장을 뺐습니다. - 역자_
 
 ## 작은 순간부터 시작하기: 앤드루 포터 인터뷰
