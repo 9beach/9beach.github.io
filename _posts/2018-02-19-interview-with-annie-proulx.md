@@ -45,7 +45,7 @@ _2016년 6월 50일 [The Guardian](https://www.theguardian.com/books/2016/jun/05
  <figcaption> Riding high: Jake Gyllenhaal and Heath Ledger in Brokeback Mountain, Ang Lee’s 2005 film based on Proulx’s short story. Photograph: Kimberly French/AP</figcaption>
 </figure>
 
-그녀가 임업에 관한 수많은 역사적인 문서와 일지, 희귀 도서를 읽은 지 10년이 되었다. "나는 역사가로서 훈련받았어요. 그래서 하고 싶은 일이었죠," 그녀는 말한다. (칠십 대에 그녀가 그 일만 한 것은 아니다. <i>버드 클라우드</i>를 썼고 와이오밍의 붉은 사막<sup>Red Desert</sup>에 관한 책을 편집했고 단편 소설을 출간했고 브로크 백 마운틴의 오페라 판 대본을 썼다.
+그녀가 임업에 관한 수많은 역사적인 문서와 일지, 희귀 도서를 읽은 지 10년이 되었다. "나는 역사가로서 훈련받았어요. 그래서 하고 싶은 일이었죠," 그녀는 말한다. (칠십 대에 그녀가 그 일만 한 것은 아니다. <i>버드 클라우드</i>를 썼고 와이오밍의 붉은 사막<sup>Red Desert</sup>에 관한 책을 편집했고 단편 소설을 출간했고 <i>브로크 백 마운틴</i>의 오페라 판 대본을 썼다.)
 
 "삼림 벌채는 <i>Barkskins</i>의 전부에요," 그녀는 말한다. "이 책에는 2개의 제사<sup>題辭</sup>가 있어요. 그중 하나는 책을 이해하는 열쇠이지만 아무도 읽지 않아요. 뭐, 그래도 저는 상관없어요."
 
