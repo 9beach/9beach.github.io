@@ -20,7 +20,7 @@ _2017년 7월 27일 [The Telegraph](https://www.telegraph.co.uk/music/interviews
 
 “스포티파이는 음악을 사랑하는 것과 아무런 관련이 없어요,” 그는 계속한다. “그들은 음악 따위는 신경 쓰지 않아요. 그들은 단지 이런 식이죠. ‘오, 이것은 내가 철저히 이용할 수 있는 자산이야. 많은 돈을 벌게 해 줄 거야’, 그러면서 우리가 음악을 경험하는 방식을 가로채고 파괴하죠.”
 
-확실히 올덤의 작품을 듣는 것은 놀랄 만큼 심오한 경험일 수 있다. 그처럼 실존적 안도를 줄 수 있는 예술가는 거의 없다. [플릿 폭시스](https://www.telegraph.co.uk/culture/music/3562957/Fleet-Foxes-deserve-the-hype.html)<sup>Fleet Foxes</sup>와 [멈퍼드 앤 선스](https://www.telegraph.co.uk/music/what-to-listen-to/mumford-and-sons-o2-arena-review/)<sup>Mumford & Sons</sup>에서 [본 이베어](https://www.telegraph.co.uk/bon-iver/)<sup>Bon Iver</sup>와 에인절 올슨<sup>Angel Olsen</sup>에 이르기까지, 아메리카나 계열의 음악을 공허와 우울로 빚어낸 그에게 영향받지 않은 예술가는 포크 음악계에서 찾기 힘들다. 거의 25년 동안, 조용하지만 강력한 가사로 사랑, 죽음, 신 그리고 인간 정신의 나약함에 관해 날카로운 탐구를 해왔다.
+확실히 올덤의 작품을 듣는 것은 놀랄 만큼 심오한 경험일 수 있다. 그처럼 실존적 안도를 줄 수 있는 예술가는 거의 없다. [플릿 폭시스](https://www.telegraph.co.uk/culture/music/3562957/Fleet-Foxes-deserve-the-hype.html)<sup>Fleet Foxes</sup>와 [멈퍼드 앤 선스](https://www.telegraph.co.uk/music/what-to-listen-to/mumford-and-sons-o2-arena-review/)<sup>Mumford & Sons</sup>에서 [본 이베어](https://www.telegraph.co.uk/bon-iver/)<sup>Bon Iver</sup>와 에인절 올슨<sup>Angel Olsen</sup>에 이르기까지, 아메리카나 계열의 음악을 공허와 우울로 빚어낸 그에게 영향받지 않은 예술가는 포크 음악계에서 찾기 힘들다. 거의 25년 동안, 조용하지만 강렬한 가사로 사랑, 죽음, 신 그리고 인간 정신의 나약함에 관해 날카로운 탐구를 해왔다.
 
 <figure class="align-center">
  <img  style="width: 100%;" src="https://www.telegraph.co.uk/content/dam/music/2017/07/29/bonnie-high-res_trans_NvBQzQNjv4BqIj_2NPvK7QhUfidOtAPphPdYBekFyiHXdTigidqSblc.jpg?imwidth=1240" alt="">
