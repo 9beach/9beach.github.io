@@ -13,8 +13,7 @@ https://9beach.github.io
 - [ ] [Annie Proulx: By the Book](https://www.nytimes.com/2016/06/26/books/review/annie-proulx-by-the-book.html)
 - [ ] [Donna Tartt: “The fun thing about writing a book is that it really is a different life”](https://www.salon.com/2013/10/22/donna_tartt_the_fun_thing_about_writing_a_book_is_that_it_really_is_a_different_life/)
 - [ ] [Moritz von Oswald (of Basic Channel)](http://www.redbullmusicacademy.com/lectures/moritz-von-oswald-early-morning-freestyles)
-- [ ] [Bonnie 'Prince' Billy interview – ‘My music functions like a vaccine’](http://www.telegraph.co.uk/music/interviews/will-oldham-interview-music-functions-like-vaccine/)
+- [x] [Bonnie 'Prince' Billy interview – ‘My music functions like a vaccine’](http://www.telegraph.co.uk/music/interviews/will-oldham-interview-music-functions-like-vaccine/)
 - [ ] Caetano Veloso
-- [ ] Pete Bernhard (of The Devil Makes Three) 
+- [ ] Pete Bernhard
 - [ ] Karen Blixen
-- [ ] Leo Tolstoy
