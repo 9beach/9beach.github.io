@@ -51,7 +51,7 @@ _2017년 7월 27일 [The Telegraph](https://www.telegraph.co.uk/music/interviews
 
 올덤이 연기와 음악 중 하나를 선택하도록 강요받는다면 무엇을 선택할까? “지금 당장은 큰 먼지 폭풍이 불고 있어서 무엇 하나를 선택하는 것은 사치스러운 고민인 것 같아요,” 그는 수완 있게 말한다. “지하실로 내려가 폭풍이 지나갈 때까지 기다리면서 남은 것이 무엇인지 보는 것이 나을 것 같군요.”
 
-절대 자신의 노래가 히트 싱글이 되는 일을 없을 거라는 단언에도 불구하고 솔직히 올덤이 음악을 그만두는 것을 상상하기는 어렵다. 비록 그는 2014년 Singer’s Grave a Sea of Tongues 이후 새로 만든 곡으로 채워진 앨범을 녹음하지 않았지만, 여전히 다작이다: 2016년 한 해에만 앨범 Epic Jammers and Fortunate Little Ditties, 밴드 Bitchin Bajas와 Pond Scum과의 잼 세션 앨범, John Peel 세션 모음집을 발표했다. 그는 또한 존 레전드의 레코드 Darkness and Light에도 공식적으로 참여했다.
+절대 자신의 노래가 히트 싱글이 되는 일을 없을 거라는 단언에도 불구하고 솔직히 올덤이 음악을 그만두는 것을 상상하기는 어렵다. 비록 그는 2014년 Singer’s Grave a Sea of Tongues 이후 새로 만든 곡으로 채워진 앨범을 녹음하지 않았지만, 여전히 다작이다: 2016년 한 해에만 앨범 Epic Jammers and Fortunate Little Ditties, 밴드 비친 바이하스<sup>Bitchin Bajas</sup>, 폰드 스컴<sup>Pond Scum</sup>과의 잼 세션 앨범, 존 필<sup>John Peel</sup> 세션 모음집을 발표했다. 그는 또한 존 레전드의 레코드 Darkness and Light에도 공식적으로 참여했다.
 
 <figure class="align-center">
  <img  style="width: 100%;" src="https://www.telegraph.co.uk/content/dam/music/2017/07/29/TELEMMGLPICT000135910159_trans_NvBQzQNjv4Bqe5jTtuvhyhg4PHi86V8a0uHC4uooAYptTLzL00kNATY.jpeg?imwidth=1240" alt="">
@@ -60,7 +60,7 @@ _2017년 7월 27일 [The Telegraph](https://www.telegraph.co.uk/music/interviews
 
 한편 올 5월, 올덤은 [전설적인 컨트리 가수 멀 해거드](https://www.telegraph.co.uk/obituaries/2016/04/07/merle-haggard-country-singer---obituary/)의 숨은 곡들을 신나고 떠들썩하게 연주한 앨범 Best Troubador를 내놓았다. “멀은 자기성찰적이고 예술적 발전을 추구하는 경향이 있는 사람인데, 컨트리 음악 애호가들에게 이런 성향이 꼭 격려받는 것은 아닙니다. 하지만 그는 수십 년 동안 사랑받았죠,” 올덤은 말한다. 2016년 4월 6일, 올덤이 이 앨범을 리허설을 하는 동안 해거드는 죽었고 앨범은 딜레마에 빠졌다.
 
-“처음에는, 그가 죽었을 때 헌정을 목적으로 레코드를 만들고 싶지는 않았습니다. 누군가가 죽자마자 ‘당신을 사랑해요’, ‘당신이 그리워요’하고 모두 인터넷을 물들입니다. 그런데 제 입장은 이래요, ‘아니, 이 사람은 죽었어요. 그래서 그는 그 말을 들을 수 없어요. 지금 돈을 벌 수 있는 유일한 사람들은 게으른 자녀들, 관리자와 음반 출시 관련 변호사들입니다. 그러면 살아 있을 때 왜 그렇게 하지 않았나요?’”
+“처음에는, 그가 죽었을 때 헌정을 목적으로 레코드를 만들고 싶지는 않았습니다. 누군가가 죽자마자 ‘당신을 사랑해요’, ‘당신이 그리워요’하고 모두 인터넷을 물들입니다. 그런데 제 입장은 이래요, ‘아니, 이 사람은 죽었어요. 그래서 그는 그 말을 들을 수 없어요. 지금 돈을 벌 수 있는 유일한 사람들은 게으른 자녀들, 관리자와 음반 출시 관련 변호사들입니다. 그래서 살아 있을 때 왜 그렇게 하지 않았나요?’”
 
 Best Troubador는 1999년 I See a Darkness의 음울한 풍경과는 거리가 멀다. 일례로, 따뜻하고 명랑하다. 올덤의 불안정한 테너는 이전보다 훨씬 덜 고통스럽다. 사람 자체와 닮았다.
 
