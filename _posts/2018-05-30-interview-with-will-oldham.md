@@ -40,7 +40,7 @@ _2017년 7월 27일 [The Telegraph](https://www.telegraph.co.uk/music/interviews
  <img  style="width: 100%;" src="https://www.telegraph.co.uk/content/dam/music/2017/07/27/bonnie2_trans_NvBQzQNjv4Bq2aizoQ_BaLt4dX785YMTtfq_6wZ8u09vd5J-x7rVlLw.jpg?imwidth=1240" alt="">
 </figure>
 
-70년대의 루이빌에서 세 아이 중 두 번째로 자란 올덤은 부모님의 레코드 컬렉션 – 에스더 오파림, 니코 로타, 에벌리 브라더스, 레너드 코헨, 헤어<sup>Hair</sup>와 미드나잇 카우보이 사운드트랙 등 – 속에서 저녁 식사를 했고 나중에는 루이빌 초기 펑크 록 씬에 참여했던 형 네드<sup>Ned</sup>의 음악적 조언을 듣게 된다. “형은 당시에 마이너 쓰렛<sup>Minor Threat</sup>과 미스핏츠<sup>The Misfits</sup>를 들었죠,” 올덤은 회상한다. “너무 어릴 때 지독하게 좋은 것에 노출되면 이해력이 비약적으로 좋아집니다.”
+70년대의 루이빌에서 세 아이 중 두 번째로 자란 올덤은 부모님의 레코드 컬렉션 – 에스더 오파림, 니코 로타, 에벌리 브라더스, 레너드 코헨, 헤어<sup>Hair</sup>와 미드나잇 카우보이 사운드트랙 등 – 속에서 저녁 식사를 했고 나중에는 루이빌 초기 펑크 록 씬에 참여했던 형 네드<sup>Ned</sup>의 음악적 조언을 듣게 된다. “형은 당시에 마이너 스렛<sup>Minor Threat</sup>과 미스핏츠<sup>The Misfits</sup>를 들었죠,” 올덤은 회상한다. “너무 어릴 때 지독하게 좋은 것에 노출되면 이해력이 비약적으로 좋아집니다.”
 
 조숙한 음악적 취향에도 불구하고, 초기 목표는 연기였고 아직 포기하지 않았다. 월든 극장에서 공부한 후에, 20세기의 석탄 파업에 관한 존 세일즈 감독의 1987년 영화 Matewan에서 예언자로 스크린 데뷔를 했다. 그 이후로 몇 편의 독립 영화에 출연하며 작곡과 연기를 오가는 다재다능한 능력을 증명했는데 정점은 켈리 레이차트<sup>Kelly Reichardt</sup> 감독의 2006년 로드 무비 Old Joy였다. 다음 달에는, [오스카 상을 받은 케이시 애플렉](https://www.telegraph.co.uk/casey-affleck/)이 출연하는 데이비드 로어리 감독의 잊을 수 없는 사랑 이야기 A Ghost Story에 대해 [열광적으로 이야기하는](http://www.vulture.com/2017/07/a-ghost-story-featurette-drunken-monologue.html?utm_campaign=vulture&utm_source=tw&utm_medium=s1) 그를 볼 수 있을 것이다. 그는 코미디언 잭 갤리퍼내키스와 함께 카니예 웨스트의 비디오에도 출연했으며 R&B 가수 R. 켈리가 만든 코믹 오페라 Trapped in the Closet에도 출연했다.
 
@@ -51,7 +51,7 @@ _2017년 7월 27일 [The Telegraph](https://www.telegraph.co.uk/music/interviews
 
 올덤이 연기와 음악 중 하나를 선택하도록 강요받는다면 무엇을 선택할까? “지금 당장은 큰 먼지 폭풍이 불고 있어서 무엇 하나를 선택하는 것은 사치스러운 고민인 것 같아요,” 그는 수완 있게 말한다. “지하실로 내려가 폭풍이 지나갈 때까지 기다리면서 남은 것이 무엇인지 보는 것이 나을 것 같군요.”
 
-절대 자신의 노래가 히트 싱글이 되는 일을 없을 거라는 단언에도 불구하고 솔직히 올덤이 음악을 그만두는 것을 상상하기는 어렵다. 비록 그는 2014년 Singer’s Grave a Sea of Tongues 이후 새로 만든 곡으로 채워진 앨범을 녹음하지 않았지만, 여전히 다작이다: 2016년 한 해에만 앨범 Epic Jammers and Fortunate Little Ditties, 밴드 비친 바이하스<sup>Bitchin Bajas</sup>, 폰드 스컴<sup>Pond Scum</sup>과의 잼 세션 앨범, 존 필<sup>John Peel</sup> 세션 모음집을 발표했다. 또 존 레전드의 레코드 Darkness and Light에도 공식적으로 참여했다.
+절대 자신의 노래가 히트 싱글이 되는 일은 없을 거라는 단언에도 불구하고 솔직히 올덤이 음악을 그만두는 것을 상상하기는 어렵다. 비록 그는 2014년 Singer’s Grave a Sea of Tongues 이후 새로 만든 곡으로만 채워진 앨범을 녹음하지 않았지만, 여전히 다작이다: 2016년 한 해에만 앨범 Epic Jammers and Fortunate Little Ditties, 밴드 비친 바이하스<sup>Bitchin Bajas</sup>, 폰드 스컴<sup>Pond Scum</sup>과의 잼 세션 앨범, 존 필<sup>John Peel</sup> 세션 모음집을 발표했다. 또 존 레전드의 레코드 Darkness and Light에도 공식적으로 참여했다.
 
 <figure class="align-center">
  <img  style="width: 100%;" src="https://www.telegraph.co.uk/content/dam/music/2017/07/29/TELEMMGLPICT000135910159_trans_NvBQzQNjv4Bqe5jTtuvhyhg4PHi86V8a0uHC4uooAYptTLzL00kNATY.jpeg?imwidth=1240" alt="">
