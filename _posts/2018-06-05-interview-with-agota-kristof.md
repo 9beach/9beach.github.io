@@ -7,9 +7,9 @@ categories:
  - interview
 ---
 
-<i>2016년 6월 9일 [_MUSIC & LITERATURE_](http://www.musicandliterature.org/features/2016/6/8/a-conversation-with-agota-kristof)에 실린, 작가 아고타 크리스토프<sup>Ágota Kristóf</sup>의 인터뷰를 번역한 글입니다. 실제 인터뷰는 1999년 6월에 진행되었습니다. 그녀의 대표적 3부작이 한국에서 </i>존재의 세 가지 거짓말<i>이라는 제목의 합본판으로 나왔지만 이 번역문에서는 각각의 원제를 그대로 사용했습니다. — 역자</i>
+<i>2016년 6월 9일 [_MUSIC & LITERATURE_](http://www.musicandliterature.org/features/2016/6/8/a-conversation-with-agota-kristof)에 실린, 작가 아고타 크리스토프<sup>Ágota Kristóf</sup>의 인터뷰를 번역한 글입니다. 그녀의 대표적 3부작이 </i>존재의 세 가지 거짓말<i>이라는 제목의 합본으로 한국에서 출판되었지만, 이 번역문에서는 각각의 원제를 그대로 사용했습니다. — 역자</i>
 
-_1999년 6월, 피사 대학에서 시인 발레리오 마그렐리<sup>Valerio Magrelli</sup> 지도로 프랑스 문학에 관한 논문을 쓰고 있던 리카르도 베네데티니<sup>Riccardo Benedettini</sup>는 위대한 헝가리 망명 작가 아고타 크리스토프<sup>Ágota Kristóf</sup>를 인터뷰하기 위해 스위스를 여행했다. 이 대화는 영어로 읽을 수 있는 현재 몇 안 되는 크리스토프와의 인터뷰 중 하나이다._
+_1999년 6월, 피사 대학에서 시인 발레리오 마그렐리<sup>Valerio Magrelli</sup> 지도로 프랑스 문학에 관한 논문을 쓰고 있던 리카르도 베네데티니<sup>Riccardo Benedettini</sup>는 위대한 헝가리 망명 작가 아고타 크리스토프<sup>Ágota Kristóf</sup>를 인터뷰하기 위해 스위스를 여행했다. 이 대화는 영어로 읽을 수 있는 현재 몇 안 되는 크리스토프의 인터뷰이다._
 
 _크리스토프는 모국어인 헝가리어를 쓰지 않고, 21세에 스위스에 이민 간 뒤 힘들게 배운 프랑스어를 썼다. 내게 이 인터뷰를 전달해 준 마그렐리가 말했듯이, “크리스토프는 새로운 종류의 프랑스어를 발명”했다. 형식적 실험을 위해 언어와 거리를 유지했던 베케트<sup>Beckett</sup>와는 달리, 그녀는 예술적 열망을 위해 프랑스어를 실험하지는 않았다. 살아남기 위해, 이해받기 위해, 가벼운 마음에서가 아니라 사력을 다해 정확함을 추구했다.—그리고 엄청난 반향을 일으켰다._
 

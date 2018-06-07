@@ -7,7 +7,7 @@ categories:
  - interview
 ---
 
-_2017년 7월 27일 [The Telegraph](https://www.telegraph.co.uk/music/interviews/will-oldham-interview-music-functions-like-vaccine/)에 실린 가수 윌 올덤<sup>Will Oldham</sup>의 인터뷰를 번역한 글입니다. - 역자_
+_2017년 7월 27일 [The Telegraph](https://www.telegraph.co.uk/music/interviews/will-oldham-interview-music-functions-like-vaccine/)에 실린 가수 윌 올덤<sup>Will Oldham</sup>의 인터뷰를 번역한 글입니다. — 역자_
 
 <figure class="align-center">
  <img  style="width: 100%;" src="https://www.telegraph.co.uk/content/dam/music/2017/07/27/bonnie1_trans_NvBQzQNjv4BqI_mVgqMuFiU-GLXAofQZkObOSCyFUHUgBraZQ9WRehM.jpg?imwidth=1400" alt="">
