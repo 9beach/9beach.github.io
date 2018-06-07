@@ -24,7 +24,7 @@ _—미크 츄<sup>Mieke Chew</sup>, 2016년 5월, 뉴욕_
  <figcaption style="width: 300px"><b>The Notebook Trilogy (The Notebook, The Proof, The Third Lie)</b><br />by <b>Ágota Kristóf</b><br />tr. <b>Alan Sheridan, David Watson, Marc Romano</b><br />(Grove Press, 1997; CB Editions, 2014; Text Publishing, 2016)</figcaption>
 </figure>
 
-**리카르도 베네데티니:** 소설을 통해 많은 성공을 거두었으며 토마스 베른하르트, 베케트, 카프카와 자주 비교됩니다. 오해되거나 소홀히 다루어졌다고 생각하는 부분이 있습니까?
+**리카르도 베네데티니:** 작가님은 소설을 통해 많은 성공을 거두었으며 토마스 베른하르트, 베케트, 카프카와 자주 비교됩니다. 오해되거나 소홀히 다루어졌다고 생각하는 부분이 있습니까?
 
 **아고타 크리스토프:** 베른하르트에 관해 이야기하는 것은 즐겁습니다. 그를 그저 사랑하기 때문이죠[_웃음_]. 모르겠습니다. 사람들이 저와 마거리트 듀라를 이야기하는 것은 별로 탐탁지 않습니다. 저는 듀라를 좋아하지 않습니다. 오해된 부분은, 음... 잘 모르겠습니다. 무슨 의미인지 모르겠습니다.
 
