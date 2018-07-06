@@ -102,7 +102,7 @@ categories:
 
 **우리가 어렸을 때는, 원하는 종류의 책을 찾는 것이 요즘 아이들에 비해 더 어려웠습니다. 너무 원했지만 좌절했던 적도 기억나고, 직접 찾아낸 책들, 예를 들어 E. 네스빗의 책이나 에드워드 이거처럼 너무나도 소중했던 책도 기억납니다.**
 
-그건 저에게 정말 힘들었습니다. 우리 도서관은 WPA에 의해 지어졌고 그 후에 책을 사는 것을 중단했습니다. 그래서 19세기의 책을 많이 읽었습니다. 그런 책만 있었습니다. 새 아동 도서는 많지 않았죠. 나니아 책도 찾을 수 없었습니다. 도서관에서 “클로디아의 비밀<sup>The Mixed-Up Files of Mrs. Basil E. Frankweiler</sup>”과 “치티치티뱅뱅<sup>Paddington Bear</sup>”을 주문하기는 했지만, 그것 말고는 … “캡틴 캥거루”에서 “패딩턴 곰<sup>Chitty Chitty Bang Bang</sup>”이나 “나니아 연대기: 사자, 마녀, 그리고 옷장<sup> The Lion, the Witch and the Wardrobe</sup>”에 관해 들었고, 아마 프랜시스 고모가 저한테 사주셨을 겁니다.
+그건 저에게 정말 힘들었습니다. 우리 도서관은 WPA에 의해 지어졌고 그 후에 책을 사는 것을 중단했습니다. 그래서 19세기의 책을 많이 읽었습니다. 그런 책만 있었습니다. 새 아동 도서는 많지 않았죠. 나니아 책도 찾을 수 없었습니다. 도서관에서 “클로디아의 비밀<sup>The Mixed-Up Files of Mrs. Basil E. Frankweiler</sup>”과 “치티치티뱅뱅<sup>Chitty Chitty Bang Bang</sup>”을 주문하기는 했지만, 그것 말고는 … “캡틴 캥거루”에서 “패딩턴 곰<sup>Paddington Bear</sup>”이나 “나니아 연대기: 사자, 마녀, 그리고 옷장<sup> The Lion, the Witch and the Wardrobe</sup>”에 관해 들었고, 아마 프랜시스 고모가 저한테 사주셨을 겁니다.
 
 **“캡틴 캥거루”가 60년대 어린이들의 오프라 윈프리였다는 것을 누가 알까요?**
 
