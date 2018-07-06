@@ -1,7 +1,7 @@
 ---
 title: "Donna Tartt: “The fun thing about writing a book is that it really is a different life”"
 comments: true
-excerpt: "“비밀의 계절”의 저자가 자신의 신작 소설, 60년대 어린이의 오프라 윈프리였던 캡틴 캥거루, 그리고 여성 캐릭터의 어려움에 관해 이야기한다."
+excerpt: "“비밀의 계절”의 저자가 자신의 신작 소설, 60년대 어린이들의 오프라 윈프리였던 캡틴 캥거루, 그리고 여성 캐릭터의 어려움에 관해 이야기한다."
 categories:
  - literature
  - interview
@@ -18,7 +18,7 @@ categories:
 
 ## 도나 타트: “책을 쓰는 것의 재미는, 정말 다른 삶이라는 것입니다.”
 
-“비밀의 계절”의 저자가 자신의 신작 소설, 60년대 어린이의 오프라 윈프리였던 캡틴 캥거루, 그리고 여성 캐릭터의 어려움에 관해 이야기한다.
+“비밀의 계절”의 저자가 자신의 신작 소설, 60년대 어린이들의 오프라 윈프리였던 캡틴 캥거루, 그리고 여성 캐릭터의 어려움에 관해 이야기한다.
 
 [로라 밀러](https://www.salon.com/writer/laura_miller)
 
