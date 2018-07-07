@@ -1,5 +1,5 @@
 ---
-title: "MANUALS 페이지 추가"
+title: "Some mathematics manuals"
 comments: true
 categories:
  - welcome
