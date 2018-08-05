@@ -39,7 +39,7 @@ _[메리 스튜어트 애트웰](http://fictionwritersreview.com/contributor/mar
 ![right-aligned-image](http://fictionwritersreview.com/wp-content/uploads/Dutch-Cover.jpg){: .align-right}
 ![right-aligned-image](http://fictionwritersreview.com/wp-content/uploads/Australian-Cover.jpg){: .align-right}
 
-<i>빛과 물질에 관한 이론</i> 해외판은 영국과 호주에서도 출판되었으며 프랑스, 네덜란드, 한국에서 번역될
+<i>빛과 물질에 관한 이론</i> 국외판은 영국과 호주에서도 출판되었으며 프랑스, 네덜란드, 한국에서 번역될
 예정이다. [플래너리 오코너상](http://en.wikipedia.org/wiki/Flannery_O%27Connor_Award_for_Short_Fiction)
 외에도 포어워드 매거진<sup>Foreword Magazine</sup>의 2008 ‘올해의 책’을 수상했고 프랭크 오코너 국제
 단편상<sup>Frank O'Connor International Short Story Award</sup> 후보에 올랐으며
@@ -55,7 +55,7 @@ Epoch, The Pushcart Prith Anthology_ 및 NPR의 "Selected Shorts"에 단편을
 
 ![right-aligned-image](http://fictionwritersreview.com/wp-content/uploads/The-Theory-of-Light-Cover-new-195x300.jpg){: .align-right}
 
-**매리 스튜어트 애트웰: <i>Time Out New York</i>에서 데이비드 레빈슨은 당신을 “[송곳같은 눈을
+**매리 스튜어트 애트웰: <i>Time Out New York</i>에서 데이비드 레빈슨은 당신을 “[송곳 같은 눈을
 가진 구경꾼](https://www.timeout.com/newyork/books/the-theory-of-light-matter)”이라고
 불렀습니다. 스스로가 구경꾼이라고 생각하십니까? 작품의 대부분은 실제로 관찰한 데서 왔습니까?**
 
@@ -78,9 +78,9 @@ Epoch, The Pushcart Prith Anthology_ 및 NPR의 "Selected Shorts"에 단편을
 </figure>
 
 "구멍"을 쓰면서 저는 이것이 기억에 관한 이야기이자 우리의 마음이 기억을, 특히 충격적인 사건에 대한
-기억을 재구성하는 방식에 대한 이야기가 되리라는 것을 일찍 깨달았던 것 같습니다. 그래서 이렇게 비선형인
+기억을 재구성하는 방식에 관한 이야기가 되리라는 것을 일찍 깨달았던 것 같습니다. 그래서 이렇게 비선형인
 구조를 사용하고 싶었었습니다. 달리 말하자면, 사건 자체만큼이나 화자에 관해 많은 것을 이야기하기 원했던 것
-같습니다. 화자는 입장을 바꾸고 시간을 오가며 다른 각도에서 사건에 접근합니다. 적어도 제 경험에서는 끔찍한
+같습니다. 화자는 태도를 바꾸고 시간을 오가며 다른 각도에서 사건에 접근합니다. 적어도 제 경험에서는 끔찍한
 사건을 기억할 때 대부분 사람이 이런 식입니다. 그리고 선형적으로 접근했다면 그런 효과를 얻을 수 있었을지
 잘 모르겠습니다.
 
@@ -107,9 +107,9 @@ Epoch, The Pushcart Prith Anthology_ 및 NPR의 "Selected Shorts"에 단편을
 읽은 책 목록을 알게 되니 부끄러웠습니다. 어쨌든 많은 사람이 자주 이야기하는 작가는 분명히 있었습니다. 갓
 등장한 [주노 디아즈](http://www.junotdiaz.com/)와 같은 젊은 작가들과
 [네이선 잉글랜더](http://www.nathanenglander.com/),
-[크리스 애드리언](http://www.bookslut.com/features/2008_08_013241.php),
+[크리스 에이드리언](http://www.bookslut.com/features/2008_08_013241.php),
 [줄리 오린저](http://www.julieorringer.com/about.html)같은 당시의 졸업생들이었는데, 모두
-단편집을 막 출판하기 시작했죠. 그 당시에는 젊은 날의 성공에 꽤 열광했습니다. 문예창작
+단편집을 막 출판하기 시작했죠. 그 당시에는 젊은 날의 성공에 꽤 열광했습니다. 문예 창작
 석사<sup>MFA</sup> 프로그램에서는 아마도 흔한 일일 겁니다.
 
 **당신을 가르쳤던 [배리 한나](http://fictionwritersreview.com/essays/every-line-matters-in-memory-of-barry-hannah-1942-2010)는
@@ -141,14 +141,14 @@ Epoch, The Pushcart Prith Anthology_ 및 NPR의 "Selected Shorts"에 단편을
 마찬가지로 서사의 층을 결합하고 마지막 단락에 동시에 세 가지 다른 시간의 관점을 제공합니다. 그런 종류의
 노스탤지어에 감동하는 편이신가요?**
 
-예, 분명히 그런것도 일부라고 생각합니다. 그런데 그 작품에서 사실상 아무것도 일어나지 않는다는 점도
+예, 분명히 그런 것도 일부라고 생각합니다. 그런데 그 작품에서 사실상 아무것도 일어나지 않는다는 점도
 좋습니다. 다이벡은 한순간, 그 작은 순간을 너무 아름답게 포착해서 그토록 우아하게 썼습니다. 어떤 면에서는 언어와
 심상이 한 데 어울려서 거의 전체 작품을 지배합니다. 소용돌이치는 애완동물 우유를 알폰스 왕의 음료에 연결한
 다음 다시 마지막에 소용돌이치는 기차의 이미지에 연결합니다. 그런 의미에서 거의 시와 같습니다. 그가
 소설가이기 훨씬 전부터 시인이었다고 생각해도 놀랍지 않습니다.
 
 **최근 주노 디아즈가 자신의 작품에서 번역되지 않은 스페인어는, 최고의 독자에 의해서조차 완전히 파악될 수
-없이 수수께끼로 남아야 하는 작품의 일부라고 말한 바 있습니다. 당신의 작품에는 문자로 언급은 되지만 텍스트에
+없이 수수께끼로 남아야 하는 작품 일부라고 말한 바 있습니다. 당신의 작품에는 문자로 언급은 되지만 텍스트에
 포함되지 않은 것들, 다양한 방식으로 묘사는 되지만 진실은 모호한 사건들—더 좋은 단어가 없어서
 빈틈<sup>lacunae</sup>이라고 부를게요—이 많습니다. 서사에서 이런 비유적인 공백은 당신에게 어떤
 의미입니까?**
@@ -159,7 +159,7 @@ Epoch, The Pushcart Prith Anthology_ 및 NPR의 "Selected Shorts"에 단편을
 제 나름의 방식이라고 생각합니다.
 
 **작품 “아술<sup>Azul</sup>”에서 십 대 교환 학생에게 숙박을 제공하는 부부는 학생이 죽을 수도 있는
-여러 가지 나쁜 결정을 내립니다. 그러나 특히 화자인 남편은 너무 사랑스럽고 정직해서 아내의 행동에도
+여러 가지 나쁜 결정을 내립니다. 그러나 특히 화자인 남편은 너무 사랑스럽고, 정직해서 아내의 행동에도
 불구하고 독자는 남편을 동정할 것 같습니다. 작품을 쓰는 동안 이 부부가 잘못되리라는 것을 항상 알고
 있었습니까, 아니면 다른 무엇이라도 명확한 것이 있었습니까?**
 
@@ -167,8 +167,8 @@ Epoch, The Pushcart Prith Anthology_ 및 NPR의 "Selected Shorts"에 단편을
 여전히 파티에서 끝났지만, 매우 조용하고 거의 명상적인 결말이었습니다. 나중에 여자 친구(지금은 아내)에게
 그 작품을 보여준 후에야 결말이 바뀌어야 한다는 것을 깨달았죠. 제 기억에 그녀가 한 말은 "이 부부가 정말로
 이렇게 행동하고도 무사하기를 바라나요?"라는 취지였습니다. 달리 말하자면, 너무 많은 나쁜 행동과 무책임에는
-그에 상응하는 결과가 필요하다는 말입니다. 그리고 저는 일단 글을 쓰고 나면 결말을 바꾸는 것을 내켜하지
-않지만 이번에는 그녀가 절대적으로 옳다는 것을 깨달았습니다.
+그에 상응하는 결과가 필요하다는 말입니다. 그리고 저는 일단 글을 쓰고 나면 결말을 바꾸는 것을 내켜 하지
+않지만, 이번에는 그녀가 절대적으로 옳다는 것을 깨달았습니다.
 
 **보통 작업을 할 때, 친구나 가족에게 작품을 보여주는 편입니까? 만약 그렇다면 다른 작품들은 어떻게
 변했는지 말씀해 주실 수 있습니까?**
@@ -192,7 +192,7 @@ Epoch, The Pushcart Prith Anthology_ 및 NPR의 "Selected Shorts"에 단편을
 
 솔직히 말해서 일부 주변 인물 관점에서 이야기를 덧붙일 생각은 있었지만, 어떤 작품에서도 관점을 바꾼
 기억은 없습니다. 저는 일단 어떤 관점에 도달하면 그것을 고수합니다. 작품을 포기할지언정 말하는 시각을
-결코 바꾸지 않습니다.
+절대 바꾸지 않습니다.
 
 **독자들이 재미없어하니, 행동하는 인물보다 관찰하는 화자를 더 많이 등장시키지는 말라는 말을 초보
 소설가들은 종종 듣습니다. 물론 작가가 이 충고를 따랐다면 <i>위대한 개츠비</i>,
@@ -261,7 +261,7 @@ _[트리스트럼 샌디](http://www.gutenberg.org/etext/1079)_ 또는
 교육자라는 것이 긍정적이든 부정적이든 어떤 식으로 작업에 영향을 줍니까?**
 
 제게 가르친다는 것의 위대한 보상 중 하나는 학생 중 일부가 실제로 작가로서의 경력을 시작하는 것을 보는
-것입니다. 지금 제 초창기 학생 중 일부는 이미 문예창작 석사 프로그램 학위를 마치고 이제 세상에 나가
+것입니다. 지금 제 초창기 학생 중 일부는 이미 문예 창작 석사 프로그램 학위를 마치고 이제 세상에 나가
 작품을 발표하고, 교사 자리를 찾고, [AWP 콘퍼런스](http://www.awpwriter.org/conference/)에
 참석하고, 독서 프로그램에 참석합니다. 솔직히 그것을 보는 것은 너무 기쁩니다. 네, 이것은 다소간은, 그들
 나이의 저를 기억하고, 그들이 정확히 제가 겪었던 것과 똑같은 것을 겪는 것을 보고, 그리고 그 과정이 얼마나
@@ -327,6 +327,6 @@ Us](http://fictionwritersreview.com/reviews/what-the-world-will-look-like-when-a
 포터가 <i>Largehearted Boy</i>에 올렸다.
 * _One-Story_ 블로그에서 [할리우드 행사](http://www.one-story.com/blog/?p=443) 후기를,
 [이곳](https://www.gettyimages.com/event/andrew-porter-book-party-for-the-theory-of-light-matter-83695122)에서
-그 날 밤의 사진을 볼 수 있다. 매튜 암스트롱, 레인 윌슨, 앤드루 포터, 저스틴 베이트먼과 네이선
+그날 밤의 사진을 볼 수 있다. 매튜 암스트롱, 레인 윌슨, 앤드루 포터, 저스틴 베이트먼과 네이선
 필리언이 포터의 작품을 낭독한다.
-* <i>빛과 물질에 관한 이론</i>을 사고 싶다면 [Powells](http://www.powells.com/book/theory-of-light-matter-9780307475176)에서 구입하고 독립 서점을 지원하자.
+* <i>빛과 물질에 관한 이론</i>을 사고 싶다면 [Powells](http://www.powells.com/book/theory-of-light-matter-9780307475176)에서 사고 독립 서점을 지원하자.
