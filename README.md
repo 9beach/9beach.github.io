@@ -10,3 +10,5 @@ https://9beach.github.io
 - [x] [Annie Proulx: ‘I’ve had a life. I see how slippery things can be’](https://www.theguardian.com/books/2016/jun/05/annie-proulx-ive-had-a-life-i-see-how-slippery-things-can-be)
 - [x] [Donna Tartt: “The fun thing about writing a book is that it really is a different life”](https://www.salon.com/2013/10/22/donna_tartt_the_fun_thing_about_writing_a_book_is_that_it_really_is_a_different_life/)
 - [x] [Bonnie 'Prince' Billy interview – ‘My music functions like a vaccine’](http://www.telegraph.co.uk/music/interviews/will-oldham-interview-music-functions-like-vaccine/)
+- [x] [Moritz von Oswald](http://www.redbullmusicacademy.com/lectures/moritz-von-oswald-early-morning-freestyles)
+- [ ] [Writing Against the Establishment’s Grain–A Conversation with Bae Su-ah](http://thethreewisemonkeys.com/2014/12/13/writing-against-the-establishments-grain-a-conversation-with-bae-su-ah/)
