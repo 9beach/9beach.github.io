@@ -1,7 +1,7 @@
 ---
 title: "Starting with Small Moments: An Interview with Andrew Porter"
 comments: true
-excerpt: "앤드루 포터는 2007년 플래너리 오코너상<sup>Flannery O'Connor Short Fiction</sup>을 받은 단편집 <i>빛과 물질에 관한 이론<sup>The Theory of Light and Matter</sup></i>을 썼고 최근 빈티지 출판사에서 재출간되었다. 평단의 호평을 받은 포터의 작품은 겹겹으로 정교하게 감싸서 아름답게 진행되는 줄거리와 기꺼이 큰 소리로 읽고 싶은 사랑스러운 문장으로 가득하다. 이 인터뷰에서 포터는, 소설을 쓰는 것이 영화 편집과 어떻게 다른지 이야기한다. 1인칭 관찰자가 누리는 독특한 이점이 바로 그것인데, 그래서 영화배우가 포터의 작품을 낭독하는 것을 들을 때 “그토록 초현실적”인 것이다."
+excerpt: "앤드루 포터는 2007년 플래너리 오코너상<sup>Flannery O'Connor Short Fiction</sup>을 받은 단편집 <i>빛과 물질에 관한 이론<sup>The Theory of Light and Matter</sup></i>을 썼고 최근 빈티지 출판사에서 재출간되었다. 평단의 호평을 받은 포터의 작품은 겹겹으로 정교하게 감싸인 아름답게 진행되는 줄거리와 기꺼이 큰 소리로 읽고 싶은 사랑스러운 문장으로 가득하다. 이 인터뷰에서 포터는, 소설 쓰기가 영화 편집과 어떻게 다른지 이야기한다. 1인칭 관찰자가 누리는 독특한 이점이 바로 그것인데, 그래서 영화배우의 포터 작품 낭독이 “그토록 초현실적”인 것이다."
 categories:
   - literature
   - interview
@@ -13,7 +13,7 @@ _2010년 7월 20일 [fictionwritersreview.com](http://fictionwritersreview.com/i
 
 ## 작은 순간부터 시작하기: 앤드루 포터 인터뷰
 
-**앤드루 포터는 2007년 플래너리 오코너상<sup>Flannery O'Connor Short Fiction</sup>을 받은 단편집 <i>빛과 물질에 관한 이론<sup>The Theory of Light and Matter</sup></i>을 썼고 최근 빈티지 출판사에서 재출간되었다. 평단의 호평을 받은 포터의 작품은 겹겹으로 정교하게 감싸서 아름답게 진행되는 줄거리와 기꺼이 큰 소리로 읽고 싶은 사랑스러운 문장으로 가득하다. 이 인터뷰에서 포터는, 소설을 쓰는 것이 영화 편집과 어떻게 다른지 이야기한다. 1인칭 관찰자가 누리는 독특한 이점이 바로 그것인데, 그래서 영화배우가 포터의 작품을 낭독하는 것을 들을 때 “그토록 초현실적”인 것이다.**
+**앤드루 포터는 2007년 플래너리 오코너상<sup>Flannery O'Connor Short Fiction</sup>을 받은 단편집 <i>빛과 물질에 관한 이론<sup>The Theory of Light and Matter</sup></i>을 썼고 최근 빈티지 출판사에서 재출간되었다. 평단의 호평을 받은 포터의 작품은 겹겹으로 정교하게 감싸인 아름답게 진행되는 줄거리와 기꺼이 큰 소리로 읽고 싶은 사랑스러운 문장으로 가득하다. 이 인터뷰에서 포터는, 소설 쓰기가 영화 편집과 어떻게 다른지 이야기한다. 1인칭 관찰자가 누리는 독특한 이점이 바로 그것인데, 그래서 영화배우의 포터 작품 낭독이 “그토록 초현실적”인 것이다.**
 
 _[메리 스튜어트 애트웰](http://fictionwritersreview.com/contributor/mary-stewart-atwell/)_
 
