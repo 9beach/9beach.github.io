@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seoul Weather and Time (OpenWeatherMap)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: black;
+            color: #e0e0e0;
+            height: 100vh;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        #info {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .time-container {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+        #time {
+            font-family: "Do Hyeon", sans-serif;
+            font-size: 7.26em; /* Increased by 10% */
+            color: #f5f5f5;
+        }
+        #date {
+            font-family: "Do Hyeon", sans-serif;
+            font-size: 3.3em;
+            display: flex;
+            flex-direction: column;
+            color: #dcdcdc;
+        }
+        #temperature {
+            font-family: "Do Hyeon", sans-serif;
+            font-size: 7.26em; /* Increased by 10% */
+        }
+        #weather {
+            font-family: "Do Hyeon", sans-serif;
+            font-size: 1.5em;
+            margin-top: 10px;
+        }
+        #hourly {
+            font-family: "Do Hyeon", sans-serif;
+            font-size: 1em;
+            margin-top: 10px;
+            display: grid;
+            grid-template-rows: auto auto;
+            gap: 2px;
+            overflow-x: auto;
+            max-width: 90vw;
+        }
+        .hourly-times, .hourly-temps {
+            display: grid;
+            grid-auto-flow: column;
+            grid-auto-columns: 60px;
+            justify-content: start;
+        }
+        .hourly-item {
+            text-align: center;
+            width: 60px;
+        }
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div id="info">
+        <div class="time-container">
+            <div id="time">Loading...</div>
+            <div id="temperature">...</div>
+            <div id="date">Loading...</div>
+        </div>
+        <div id="weather">Loading current weather...</div>
+        <div id="hourly">Loading hourly forecast...</div>
+    </div>
+
+    <script>
+        const apiKey = 'b0b1989dfa8a23fdff44d80498d7e07d';
+        const weatherUrl = `https://api.openweathermap.org/data/2.5/weather?id=1835848&units=metric&appid=${apiKey}`;
+        const forecastUrl = `https://api.openweathermap.org/data/2.5/forecast?id=1835848&units=metric&appid=${apiKey}`;
+        const airPollutionUrl = `https://api.openweathermap.org/data/2.5/air_pollution?lat=37.5665&lon=126.9780&appid=${apiKey}`;
+
+        function updateTime() {
+            const now = new Date();
+            const month = now.getMonth() + 1;
+            const day = now.getDate();
+            const weekdays = ['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT'];
+            const weekday = weekdays[now.getDay()];
+            const hours = String(now.getHours()).padStart(2, '0');
+            const minutes = String(now.getMinutes()).padStart(2, '0');
+
+            document.getElementById('time').textContent = `${hours}:${minutes}`;
+            document.getElementById('date').innerHTML = `${month}/${day}<br>${weekday}`;
+        }
+
+        function getTemperatureColor(temp) {
+            if (temp < 0) return '#0077BE'; // 매우 추움: 진한 파란색
+            if (temp < 10) return '#4682B4'; // 추움: 파란색
+            if (temp < 20) return '#20B2AA'; // 선선함: 청록색
+            if (temp < 25) return '#FFD700'; // 따뜻함: 금색
+            if (temp < 30) return '#FFA500'; // 더움: 주황색
+            return '#FF4500'; // 매우 더움: 빨간색
+        }
+
+        function getAQIColor(aqi) {
+            switch (aqi) {
+                case 1:
+                    return '#009966'; // 좋은: 녹색
+                case 2:
+                    return '#ffde33'; // 보통: 노란색
+                case 3:
+                    return '#ff9933'; // 나쁨: 주황색
+                case 4:
+                    return '#cc0033'; // 매우 나쁨: 빨간색
+                case 5:
+                    return '#660099'; // 위험: 보라색
+                default:
+                    return '#7e7e7e'; // 알 수 없음: 회색
+            }
+        }
+
+        function updateWeather() {
+            fetch(weatherUrl)
+                .then(response => response.json())
+                .then(data => {
+                    const temp = Math.round(data.main.temp);
+                    const feelsLike = Math.round(data.main.feels_like);
+                    const description = data.weather[0].description;
+                    const humidity = data.main.humidity;
+                    const windSpeed = Math.round(data.wind.speed * 3.6);
+                    const tempColor = getTemperatureColor(temp);
+                    const feelsLikeColor = getTemperatureColor(feelsLike);
+
+                    fetch(airPollutionUrl)
+                        .then(response => response.json())
+                        .then(airData => {
+                            const aqi = airData?.list[0]?.main.aqi || 'N/A';
+                            const aqiColor = getAQIColor(aqi);
+                            document.getElementById('temperature').textContent = `${temp}°`;
+                            document.getElementById('temperature').style.color = tempColor;
+                            document.getElementById('weather').innerHTML = `${description}, Feel-like <span style="color:${feelsLikeColor}">${feelsLike}°</span><br>
+                                Humidity ${humidity}%, PoP 0%<br>
+                                Wind ${windSpeed} km/h, AQI <span style="color:${aqiColor}">${aqi}</span>`;
+                        });
+                })
+                .catch(error => {
+                    document.getElementById('temperature').textContent = `--°`;
+                    document.getElementById('weather').innerHTML = `<span class="error">Weather fetch error</span>`;
+                });
+            
+            fetch(forecastUrl)
+                .then(response => response.json())
+                .then(forecastData => {
+                    let hourlyTimes = '<div class="hourly-times">';
+                    let hourlyTemps = '<div class="hourly-temps">';
+                    
+                    for (let i = 0; i < 6; i++) {
+                        const forecast = forecastData.list[i];
+                        const date = new Date(forecast.dt * 1000);
+                        const hour = date.getHours();
+                        const temp = Math.round(forecast.main.temp);
+                        const hourDisplay = hour < 12 ? `${hour || 12}AM` : `${hour === 12 ? 12 : hour - 12}PM`;
+                        const tempColor = getTemperatureColor(temp);
+                        
+                        hourlyTimes += `<span class="hourly-item">${hourDisplay}</span>`;
+                        hourlyTemps += `<span class="hourly-item" style="color:${tempColor}">${temp}°C</span>`;
+                    }
+                    hourlyTimes += '</div>';
+                    hourlyTemps += '</div>';
+                    document.getElementById('hourly').innerHTML = hourlyTimes + hourlyTemps;
+                })
+                .catch(error => {
+                    document.getElementById('hourly').innerHTML = `<span class="error">Hourly forecast fetch error</span>`;
+                });
+        }
+
+        updateTime();
+        updateWeather();
+        setInterval(updateTime, 30000);
+        setInterval(updateWeather, 3600000);
+    </script>
+</body>
+</html>
+
